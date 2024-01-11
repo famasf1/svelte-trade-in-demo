@@ -1,0 +1,75 @@
+# Ignore Visual Studio files
+.vs/
+
+# Ignore build output
+bin/
+obj/
+
+# Ignore NuGet packages
+*.nupkg
+*.snupkg
+**/packages/
+
+# Ignore user-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore build artifacts
+*_i.c
+*_p.c
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.opendb
+*.scc
+
+# Ignore Resharper files
+_ReSharper*/
+*.resharper*
+*.DotSettings.user
+
+# Ignore Visual Studio Code files
+.vscode/
+
+# Ignore Rider files
+.idea/
+*.sln.iml
+
+# Ignore Mac files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Ignore Linux files
+*~
+
+# Ignore Windows files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.lnk
