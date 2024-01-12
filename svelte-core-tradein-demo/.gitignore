@@ -8,27 +8,3 @@ node_modules
 !.env.example
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
-# Vite
-/dist
-/.vite
-# Playwright
-/playwright
-# ESLint
-/.eslintcache
-/.vscode
-/.idea
-/.eslintrc
-/.eslintrc.js
-/.eslintrc.json
-/.eslintrc.yml
-/.eslintrc.yaml
-# Ignore build output
-/public/build
-# Ignore SvelteKit server
-/.svelte-kit
-# Ignore test snapshots
-/__snapshots__
-# Ignore test coverage
-/coverage
-# Ignore test results
-/test-results
