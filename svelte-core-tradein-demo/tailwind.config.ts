@@ -24,6 +24,10 @@ export default {
 						name: 'crimson',
 						enhancements: true,
 					},
+					{
+						name: 'wintry',
+						enhancements: true,
+					}
 				],
 			},
 		}),
